@@ -1,0 +1,7 @@
+.container {
+  background-color: lightgrey;
+  width: 600px;
+  height: 600px;
+  display: grid;
+  grid-gap: 1px;
+}
