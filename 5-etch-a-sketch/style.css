@@ -1,0 +1,17 @@
+.container {
+  background-color: lightgrey;
+  width: 600px;
+  height: 600px;
+  display: grid;
+  grid-gap: 1px;
+}
+
+#userInput{
+  display: flex;
+  width: 600px;
+  height: auto;
+  margin-top: 40px;
+  background-color: lightgrey;
+  align-items: center;
+  justify-content: space-around;
+}
